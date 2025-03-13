@@ -29,8 +29,8 @@
 
 ## More about chatbot
 ## Contributors
-- [Kapil Mahajan]([https://github.com/mahajankapil](https://in.linkedin.com/in/kapil-mahajan-80a974225?original_referer=https%3A%2F%2Fwww.google.com%2F)) – Lead Developer - Chatbot Logic,NLP Integration, Frontend Development, UI/UX Design.  
-- [Om Dumbre](https://github.com/mahajankapil)** – Database Management, Security & Documentation. 
+- [Kapil Mahajan](https://in.linkedin.com/in/kapil-mahajan-80a974225?original_referer=https%3A%2F%2Fwww.google.com%2F) – Lead Developer - Chatbot Logic,NLP Integration, Frontend Development, UI/UX Design.  
+- [Om Dumbre](https://github.com/mahajankapil) – Database Management, Security & Documentation. 
 
 
 -----------
