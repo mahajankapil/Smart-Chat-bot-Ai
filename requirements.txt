@@ -1,0 +1,21 @@
+# pip install -r requirements.txt
+# python your_script.py
+
+Flask
+streamlit
+uvicorn
+fastapi
+sqlalchemy
+chromadb
+torch
+torchvision
+torchaudio
+fastapi
+asyncpg 
+databases 
+passlib
+databases[sqlite] 
+python-multipart
+
+bcrypt==3.2.0
+pydantic==1.9.0

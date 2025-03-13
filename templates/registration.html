@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPPU Assist</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .typewriter-text {
+            white-space: pre-line;
+            /* Preserve line breaks */
+            margin: 0 auto;
+            position: relative;
+        }
+        
+        .typewriter-text p {
+            margin: 0 0 10px;
+            /* Add some space between paragraphs */
+        }
+        
+        .firstdiv {
+            background-color: rgb(255 244 197);
+            height: 100vh;
+        }
+        
+        .seconddiv {
+            background-color: rgb(255 255 255);
+            height: 100vh;
+        }
+        
+        .text-orange {
+            color: rgb(254 118 0);
+        }
+        
+        * {
+            font-feature-settings: normal !important;
+            -webkit-tap-highlight-color: transparent !important;
+            font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji !important;
+            font-variation-settings: normal !important;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-6 text-orange firstdiv mx-auto">
+                <h3 class="mt-1 mb-5">
+                    <div class="d-flex align-items-center fw-bold">
+                        Chat Bot<span class="text-orange">●</span>
+                    </div>
+                </h3>
+                <span class="fw-bold h1">
+                    <label class="mt-5">The Rise of Chatbots</label>
+                </span>
+                <span class="typewriter-text fw-bold">
+                    <p class="h4" style="text-indent: 30px;">
+                        Once considered a novelty, chatbots have now become ubiquitous across various industries. From retail and banking to healthcare and hospitality, businesses are leveraging chatbots to automate routine tasks, provide personalized assistance, and deliver round-the-clock support to customers. The ability to handle multiple inquiries simultaneously and provide instant responses has made chatbots invaluable assets for enhancing operational efficiency and customer satisfaction.
+                    </p>
+                </span>
+            </div>
+            <div class="col-6 justify-content-center text-center seconddiv mx-auto pt-5">
+                <h2 class="mt-5">Get started</h2>
+                <div class="mt-1 col-12 mx-auto gap-2 d-inline-flex justify-content-center">
+                    <!--.<a href="/login" class="btn btn-primary col-3 btn-lg">Log in</a>-->
+
+
+
+                    <a href="/register" class="btn btn-primary col-3 btn-lg">Sign up</a>
+
+
+                   
+                </div>
+                <div class="mt-1 col-12 mx-auto gap-2 d-inline-flex justify-content-center">
+                    <img class="img img-responsive" src="../static/logo.png" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap 5 JS Bundle (optional) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const paragraphs = document.querySelectorAll('.typewriter-text p');
+            paragraphs.forEach((paragraph, index) => {
+                const text = paragraph.innerText.trim();
+                paragraph.innerHTML = ''; // Clear paragraph text
+                // Typewriter effect
+                let charIndex = 0;
+                const typingInterval = setInterval(() => {
+                    paragraph.innerHTML += text[charIndex];
+                    charIndex++;
+                    if (charIndex >= text.length) {
+                        clearInterval(typingInterval);
+                    }
+                }, 40); // Adjust typing speed here
+            });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,137 @@
+Question: Is cricket the most popular sport in India?
+Answer: Yes, cricket is considered the most popular sport in India, with millions of fans following the game passionately.
+
+Question: Are there different formats of cricket?
+Answer: Yes, cricket has three main formats: Test cricket, One Day Internationals (ODIs), and Twenty20 (T20).
+
+Question: Who is the governing body of international cricket?
+Answer: The International Cricket Council (ICC) is the governing body of international cricket.
+
+Question: What is the length of a cricket pitch?
+Answer: A standard cricket pitch is 22 yards (20.12 meters) in length.
+
+Question: Can a cricket match end in a tie?
+Answer: Yes, in limited-overs cricket, a match can end in a tie if both teams score the same number of runs. In Test cricket, the match can also end in a draw if time runs out.
+
+Question: Who has scored the most runs in Test cricket?
+Answer: Sachin Tendulkar holds the record for the most runs scored in Test cricket, with over 15,000 runs.
+
+Question: What is the role of an all-rounder in cricket?
+Answer: An all-rounder is a player who is skilled in both batting and bowling, contributing to the team in both aspects.
+
+Question: Are there any international women’s cricket tournaments?
+Answer: Yes, there are several international women’s cricket tournaments, including the Women’s Cricket World Cup and the ICC Women's T20 World Cup.
+
+Question: What is the weight of a cricket ball?
+Answer: A cricket ball typically weighs between 155.9 and 163 grams (5.5 and 5.75 ounces).
+
+Question: How many players are on a cricket team?
+Answer: A cricket team consists of 11 players.
+
+Question: Can a cricket match be played indoors?
+Answer: Yes, there is a format called indoor cricket, which is played in enclosed indoor arenas with modified rules.
+
+Question: What is the meaning of LBW in cricket?
+Answer: LBW stands for "Leg Before Wicket," a way of dismissing a batsman when the ball strikes their leg in line with the stumps.
+
+Question: Are there any famous cricket rivalries?
+Answer: Yes, one of the most famous cricket rivalries is between India and Pakistan, and also between Australia and England, known as "The Ashes."
+
+Question: What is a century in cricket?
+Answer: A century in cricket refers to a batsman scoring 100 or more runs in a single innings.
+
+Question: What does a cricket umpire do?
+Answer: A cricket umpire is responsible for making decisions on the field, such as declaring a batsman out or not out, and enforcing the rules of the game.
+
+Question: Is there a world championship for cricket?
+Answer: Yes, the ICC Cricket World Cup is held every four years for One Day International (ODI) teams, and the ICC T20 World Cup is held every two years for T20 teams.
+
+Question: Can a bowler bowl consecutive overs?
+Answer: No, a bowler cannot bowl consecutive overs in cricket. A different bowler must bowl the next over.
+
+Question: What is a no-ball in cricket?
+Answer: A no-ball is an illegal delivery by the bowler, which results in an extra run awarded to the batting team, and the ball must be re-bowled.
+
+Question: What is a hat-trick in cricket?
+Answer: A hat-trick occurs when a bowler takes three wickets on three consecutive deliveries.
+
+Question: What is the role of a wicketkeeper in cricket?
+Answer: The wicketkeeper is a specialized fielder who stands behind the stumps to catch balls and attempt to stump or run out batsmen.
+
+Question: What is a six in cricket?
+Answer: A six is when the batsman hits the ball out of the playing field without it touching the ground, earning six runs for their team.
+
+Question: How many bails are used in cricket?
+Answer: Two bails are used in cricket, placed on top of the three stumps.
+
+Question: Who is the captain of a cricket team?
+Answer: The captain is the leader of the cricket team, responsible for strategy, field placements, and deciding who bowls and bats.
+
+Question: What is a Test match in cricket?
+Answer: A Test match is the longest format of cricket, played over five days with each team batting and bowling twice.
+
+Question: Can a cricket match be played at night?
+Answer: Yes, cricket matches can be played at night under floodlights, especially in limited-overs formats like ODIs and T20s.
+
+Question: What is a super over in cricket?
+Answer: A super over is a tiebreaker used in limited-overs cricket when the match ends in a tie, with each team playing one over to determine the winner.
+
+Question: What is a duck in cricket?
+Answer: A duck refers to a batsman getting out without scoring any runs.
+
+Question: What is a run-out in cricket?
+Answer: A run-out occurs when a fielder hits the stumps with the ball while the batsmen are attempting a run, before the batsman reaches the crease.
+
+Question: How many overs are played in an ODI match?
+Answer: An ODI match consists of 50 overs per side.
+
+Question: Who won the first ICC Cricket World Cup?
+Answer: The first ICC Cricket World Cup was won by the West Indies in 1975.
+
+Question: What is the maximum number of overs a bowler can bowl in a T20 match?
+Answer: In a T20 match, a bowler can bowl a maximum of 4 overs.
+
+Question: Who holds the record for the fastest century in ODIs?
+Answer: AB de Villiers holds the record for the fastest century in ODIs, scoring 100 runs off just 31 balls.
+
+Question: What is a wide ball in cricket?
+Answer: A wide ball is a delivery that is too far from the batsman to hit, resulting in an extra run for the batting team.
+
+Question: Can a batsman switch hands during an innings?
+Answer: Yes, a batsman can switch from batting right-handed to left-handed (or vice versa) during an innings, but must notify the umpire.
+
+Question: What is the significance of the Ashes series?
+Answer: The Ashes is a historic Test cricket series between England and Australia, and is one of the most celebrated rivalries in cricket.
+
+Question: Who was the first cricketer to score 10,000 runs in Test cricket?
+Answer: Sunil Gavaskar of India was the first cricketer to score 10,000 runs in Test cricket.
+
+Question: Can a match be abandoned due to bad weather?
+Answer: Yes, a match can be abandoned due to rain, bad light, or other adverse weather conditions.
+
+Question: What is powerplay in limited-overs cricket?
+Answer: A powerplay is a period of limited-overs cricket where fielding restrictions apply, allowing only a certain number of fielders outside the 30-yard circle.
+
+Question: Who is the first cricketer to score a double century in ODIs?
+Answer: Sachin Tendulkar was the first cricketer to score a double century in ODIs.
+
+Question: What is the follow-on in Test cricket?
+Answer: The follow-on is enforced when a team batting second is trailing by a certain number of runs and is asked to bat again immediately after their first innings.
+
+Question: Can a substitute fielder bowl or bat?
+Answer: No, a substitute fielder cannot bowl or bat; they can only field.
+
+Question: What is the role of a third umpire in cricket?
+Answer: The third umpire uses video replays to assist the on-field umpires in making decisions, especially in cases of close run-outs or catches.
+
+Question: Who is the fastest bowler in cricket history?
+Answer: Shoaib Akhtar of Pakistan holds the record for the fastest delivery in cricket, clocked at 161.3 km/h (100.23 mph).
+
+Question: What is a dead ball in cricket?
+Answer: A dead ball is a delivery that is declared invalid, usually because the bowler stops their action, or the batsman or bowler is not ready.
+
+Question: Who has taken the most wickets in Test cricket?
+Answer: Muttiah Muralitharan of Sri Lanka holds the record for the most wickets in Test cricket, with 800 wickets.
+
+Question: What is a golden duck in cricket?
+Answer: A golden duck refers to a batsman being dismissed on the first ball they face, without scoring any runs.

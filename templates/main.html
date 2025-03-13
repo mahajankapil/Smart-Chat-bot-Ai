@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourist Travel</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .typewriter-text {
+            white-space: pre-line;
+            /* Preserve line breaks */
+            margin: 0 auto;
+            position: relative;
+        }
+        
+        .typewriter-text p {
+            margin: 0 0 10px;
+            /* Add some space between paragraphs */
+        }
+        
+        .firstdiv {
+            background-color: rgb(34, 51, 94);
+            height: 100vh;
+        }
+        
+        .seconddiv {
+            background-color: rgb(255 255 255);
+            height: 100vh;
+        }
+        
+        .text-orange {
+            color: rgb(184, 184, 184);
+        }
+        
+        * {
+            font-feature-settings: normal !important;
+            -webkit-tap-highlight-color: transparent !important;
+            font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji !important;
+            font-variation-settings: normal !important;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-6 text-orange firstdiv mx-auto">
+                <h3 class="mt-1 mb-5">
+                    <div class="d-flex align-items-center fw-bold">
+                        <span class="text-orange">● </span>CollegeWishlist.in
+                    </div>
+                </h3>
+                <span class="fw-bold h2">
+                    <label class="mt-5">Here We're Introduce...</label>
+                </span>
+                <span class="typewriter-text fw-bold">
+                    <p class="h4" style="text-indent: 30px;">‎ <br>CollegeWishlist GPT is an intelligent AI-powered response bot that delivers smart and efficient answers to users by training on specific data sets. Similar to ChatGPT, it provides tailored responses, enhancing user interaction and automating conversations for seamless assistance.
+                    </p>
+                </span>
+            </div>
+            <div class="col-6 justify-content-center text-center seconddiv mx-auto pt-5">
+                <h2 class="mt-5">Get started</h2>
+                <div class="mt-1 col-12 mx-auto gap-2 d-inline-flex justify-content-center">
+                    <a href="/login" class="btn btn-primary col-3 btn-lg">Log in</a>
+
+
+
+                   <!-- <a href="/register" class="btn btn-primary col-3 btn-lg">Sign up</a>--> 
+
+
+                   
+                </div>
+                <div class="mt-1 col-12 mx-auto gap-2 d-inline-flex justify-content-center">
+                    <img class="img img-responsive" style="height:250px;width:250px;" src="../static/logo.png" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap 5 JS Bundle (optional) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const paragraphs = document.querySelectorAll('.typewriter-text p');
+            paragraphs.forEach((paragraph, index) => {
+                const text = paragraph.innerText.trim();
+                paragraph.innerHTML = ''; // Clear paragraph text
+                // Typewriter effect
+                let charIndex = 0;
+                const typingInterval = setInterval(() => {
+                    paragraph.innerHTML += text[charIndex];
+                    charIndex++;
+                    if (charIndex >= text.length) {
+                        clearInterval(typingInterval);
+                    }
+                }, 40); // Adjust typing speed here
+            });
+        });
+    </script>
+</body>
+
+</html>
